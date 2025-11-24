@@ -8,6 +8,8 @@ from nltk.stem.porter import PorterStemmer
 # NLTK Downloads
 nltk.download('punkt')
 nltk.download('stopwords')
+nltk.download("punkt_tab")
+
 
 ps = PorterStemmer()
 tfidf = pickle.load(open('./artifacts/tfidf_vectorizer.pkl', 'rb'))
