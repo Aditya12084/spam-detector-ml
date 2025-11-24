@@ -69,13 +69,17 @@ spam-detector-ml/
   * Sentence count comparison
   * Uppercase word patterns
 <img src="assets/spam_vs_ham.png" width="600"/>
+
 * Most common words in Spam and Ham
-<img src="assets/top30_spam_words.png" width="400"/>
+<img src="assets/top30_spam_words.png" width="500"/>
+
 * Word cloud
+  
 * Performance plots during tuning
-<img src="assets/hyp_tuning_max_feat.png" width="400"/>
+<img src="assets/hyp_tuning_max_feat.png" width="500"/>
+
 * Best performing models
-<img src="assets/best_perf_model.png" width="400"/>  
+<img src="assets/best_perf_model.png" width="500"/>  
 
 ---
 
